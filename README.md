@@ -35,7 +35,7 @@ MTSP is a powerful, feature-rich terminal-based music player for Linux systems, 
 
 ## 🖥️ Screenshots
 
-[Note: Replace these with actual screenshots of your application]
+
 ![MTSP Main Menu](https://github.com/almezali/mtsp-pro/raw/main/Screenshot_p1.png)
 ![MTSP File Browser](https://github.com/almezali/mtsp-pro/raw/main/Screenshot_p1.png)
 
